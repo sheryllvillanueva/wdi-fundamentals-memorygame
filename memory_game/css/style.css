@@ -21,27 +21,11 @@ h1 {
 	font-size: 45px;
 }
 
-h2 {
-	font-family: "Raleway", sans-serif;
-	color: #0D2C40;
-	letter-spacing: 1px;
-	font-weight: 600;
-	font-size: 20px;
-	margin: 0 auto;
-}
-
 nav {
 	background-color: #00A6B3;
 	color: #FFFFFF;
 	padding: 20px 0;
 }
-
-main {
-	width: 850px;
-	margin: 35px auto;
-
-}
-
 
 
 a {
@@ -60,11 +44,28 @@ a:hover {
 	border-color: white;
 }
 
+main {
+	width: 850px;
+	margin: 35px auto;
+}
+
+h2 {
+	font-family: "Raleway", sans-serif;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+	margin: 0 auto 20px;	
+}
+
 p {
-	font-family: "Droid Serif", serif;
+	font-family: "Droid Serif", sans-serif;
 	line-height: 26px;
 	font-size: 18px;
 }
+
+
+
 
 img {
 	margin: 40px 8px;
